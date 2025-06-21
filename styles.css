@@ -149,7 +149,7 @@ body {
   flex: 1;
 }
 .about-text h2 {
-  font-size: 0.7rem;
+  font-size: 0.8rem;
   letter-spacing: 0.7px;
   color: var(--grey-dark);
   margin-bottom: 1rem;
