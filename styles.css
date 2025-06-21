@@ -198,6 +198,21 @@ body {
   font-size: 0.85rem;
 }
 
+.ux-journey {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1rem 2rem;
+  font-family: 'Inter', sans-serif;
+  line-height: 1.8;
+  color: #444;
+}
+
+.ux-journey h2 {
+  text-align: center;
+  font-size: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+Let me 
 /* Experience */
 .experience {
   padding: 4rem 0;
