@@ -265,20 +265,46 @@ Let me
   width: 60px;
 }
 
-/* Skills */
+/* Education Layout */
+.education {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  text-align: center;
+  margin-bottom: 7rem;
+}
+
+.education img {
+  width: 60px;
+  height: auto;
+}
+
+/* Skills Layout */
+.skills {
+  display: flex;
+  justify-content: center;
+}
+
 .skill-tags {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.5rem;
-  margin-top: 1rem;
+  gap: 10px;
+  max-width: 1000px;
+  justify-content: center;
 }
+
 .skill-tags span {
   background: var(--black);
-  color: var(--white);
-  padding: 0.4rem 1rem;
-  border-radius: 20px;
-  font-size: 0.85rem;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 999px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  white-space: nowrap;
 }
+
+
 
 /* Toolbox */
 .toolbox {
