@@ -147,10 +147,11 @@ body {
 }
 .about-text {
   flex: 1;
+ font-family: "Courier New", Courier, monospace;
 }
 .about-text h2 {
   font-size: 1rem;
-   font-family: "Courier New", Courier, monospace;
+
   letter-spacing: 1px;
   color: var(--grey-dark);
   margin-bottom: 1rem;
