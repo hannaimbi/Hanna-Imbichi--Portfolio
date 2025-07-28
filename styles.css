@@ -147,7 +147,7 @@ body {
 }
 .about-text {
   flex: 1;
-  font-family: 'IBM Plex Mono', monospace;
+  
 }
 .about-text h2 {
   font-size: 1rem;
